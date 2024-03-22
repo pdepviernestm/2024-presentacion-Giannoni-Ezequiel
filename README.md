@@ -1,7 +1,9 @@
-<header>
-# presentacion-
-</header>
-<head>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Mi experimento CSS</title>
+    <link rel="stylesheet"    href="styles.css" />
 <h2>Mi nombre es <br>Ezequiel S. Giannoni
 </h2>  
 <h4>Estudiante de <br>Ingenieria en Sistemas (UTNfrba)
@@ -23,3 +25,4 @@
     </div>
   </body>
 <footer>Ya saben usar git!</footer>
+</html>
