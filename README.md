@@ -1,6 +1,7 @@
 # presentacion-
 
 - Mi nombre es Ezequiel S. Giannoni
+- Estudiante de Ingenieria de Sistemas (UTNfrba)
 
 - Escriban presentación sobre ustedes.
 - Suban la presentación a Git.
