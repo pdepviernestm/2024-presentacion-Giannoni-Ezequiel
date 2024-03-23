@@ -1,5 +1,33 @@
-Hola!
+<h2>Mi nombre es <br>Ezequiel S. Giannoni
+</h2>
+<h4>Estudiante de <br>Ingenieria en Sistemas (UTNfrba)
+</h4>
+</head>
 
-Mi nombre es Mariel, 23 años casi 24, me gusta la programacion y ando buscando trabajo actualmente y empezar a formarme profesionalmente
-Normalmente me cuesta hablar con la gente ya que no se sacar temas de conversacion pero siempre fui buena escuchando los problemas de los demas
-Espero que nos llevemos bien :)
+<body>
+    <p align="left">
+        <a href="https://www.linkedin.com/in/ezequielgiannoni" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                alt="franco-lamberti" height="30" width="40" /></a>
+    </p>
+    <h4>📫 <strong>Mail personal:</strong> egiannoni95@gmail.com</h4>
+    <ul>
+        <h1>Detalles</h1>
+        <li>Soy actor profesional, tuve una vida paralela de 10 años con el arte. Por el momento pause la carrera de
+            Licenciatura en la UNA, mi interés personal tiene foco en una tríada interesante (Ciencia, Arte y
+            Tecnología)</li>
+        <dl><li><dt>Deportes:</dt> El que venga, igual mis aficiones estan en los extremos con tabla. </li>
+        <li><dt>Metas:</dt> <dd>Aprender a andar en avión,</dd> <dd>bucear,</dd> <dd>conocer las auras boreales.</dd> <dd>Pd: La vida es una!</dd></li>
+        <li><dt>Finanzas:</dt> Invirtiendo en Cryptomonedas por un lado, por otro aplicando técnicas de administración de bienes.
+        </li>
+        <li>Ideologia: Apolítico. Mi <a
+            href=
+            "https://elyhoy.blogspot.com/2014/04/espejo-solar-blanco-bolon-etznab-kin-178.html?m=1">signo</a>
+             es un Espejo Solar Blanco, según la cultura maya <br>
+            , en consecuencia, a los 21 decidí tatuarme ese simbolo, 
+            en la empuñadura, de la espada de Escalibur, y en su
+            filo; una frase: "Nobody said it was easy" (Coldplay).</li>
+    </ul></dl>
+    <br><br>
+</body>
+<footer>Ya saben usar git!</footer>
