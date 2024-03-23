@@ -19,13 +19,18 @@
     - [ ] Aprender a pilotear
 ***
 ***
- ![Subte D: Facultad de medicina](/2024-presentacion-Giannoni-Ezequiel/imagenes/foto_1.jpg "Título del enlace")
+ [![](/2024-presentacion-Giannoni-Ezequiel/imagenes/foto_1.jpg)] 
 ***
 📫 <strong>Mail personal:</strong> <egiannoni95@gmail.com>
-
-
-
-
+***
+<p align="left">
+        <a href="https://www.linkedin.com/in/ezequielgiannoni" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                alt="franco-lamberti" height="30" width="40" /></a>
+    </p>
+<br>
+<br>
+<br>
 
 
 
