@@ -3,16 +3,16 @@
 
 ***
 - [x] Deportes:
-    - [ ] Snowboard
-    - [ ] Wakeboard
+    - [x] Snowboard
+    - [x] Wakeboard
     - [ ] Longboard
 - [x] Estudios:
     - [x] Bachiller
     - [ ] Licenciatura
     - [ ] Ingenieria
 - [x] Finanzas:
-    - [ ] Cryptomonedas
-    - [ ] Administración de bienes
+    - [x] Cryptomonedas
+    - [x] Administración de bienes
     - [ ] Bolsa de valores
 - [x] Metas:
     - [ ] Aprender a bucear
