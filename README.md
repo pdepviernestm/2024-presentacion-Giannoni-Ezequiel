@@ -19,7 +19,7 @@
     - [ ] Aprender a pilotear
 ***
 ***
- [![](/2024-presentacion-Giannoni-Ezequiel/imagenes/foto_1.jpg)] 
+ ![](/imagenes/foto_1.jpg "Subte D: Facultad de Medicina") 
 ***
 📫 <strong>Mail personal:</strong> <egiannoni95@gmail.com>
 ***
