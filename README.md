@@ -30,15 +30,18 @@ EZEQUIEL SEBASTIÁN GIANNONI
 | Ciencias Naturales  | Lic. en Actuacion  | Sistemas de la Información  |
 | IJME  | UNA  | UTN  |
 
+ - [x] **Deportes:**
+
+| Tabla  | Raqueta | Pelota |
+| :---: | :---: | :---: |
+| Snowboard  | Tenis  | Futbol  |
+| Wakeboard  | Padel  | Voley  |
+| Surf  | Ping-pong  | Handball  |
+
 - [x] **Finanzas:**
     - [x] Cryptomonedas
     - [x] Administración de bienes
     - [ ] Bolsa de valores
- - [x] **Deportes:**
-    - [x] Snowboard
-    - [x] Wakeboard
-    - [ ] Longboard
-
 
 ***
 > Nobody said it was easy.  — Coldplay
