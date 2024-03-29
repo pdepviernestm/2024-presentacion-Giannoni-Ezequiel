@@ -1,23 +1,10 @@
-## Mi nombre es ***Ezequiel S. Giannoni***
+## Mi nombre es 
+````
+EZEQUIEL SEBASTIÁN GIANNONI
+````
 
 
-***
- - [x] **Deportes:**
-    - [x] Snowboard
-    - [x] Wakeboard
-    - [ ] Longboard
-- [x] **Estudios:**
-
-| Bachiller  | Licenciatura | Ingenieria |
-| ------------- | ------------- | ------------- |
-| Ciencias Naturales  | Lic. en Actuacion  | Sistemas de la Información  |
-| IJME  | UNA  | UTN  |
-
-- [x] **Finanzas:**
-    - [x] Cryptomonedas
-    - [x] Administración de bienes
-    - [ ] Bolsa de valores
-
+#### Explorando el lenguaje Markdown contaré acerca de mi. Mi [signo](https://espejomagnetico.com/los-20-sellos/el-sello-solar-del-espejo-blanco/)  Maya, por ejemplo...
  <details>
 
 <summary>Metas</summary>
@@ -34,12 +21,31 @@
 ```
 </details>
 
-### Mi [signo](https://espejomagnetico.com/los-20-sellos/el-sello-solar-del-espejo-blanco/)  Maya
+***
+
+- [x] **Estudios:**
+
+| Bachiller  | Licenciatura | Ingenieria |
+| :---: | :---: | :---: |
+| Ciencias Naturales  | Lic. en Actuacion  | Sistemas de la Información  |
+| IJME  | UNA  | UTN  |
+
+- [x] **Finanzas:**
+    - [x] Cryptomonedas
+    - [x] Administración de bienes
+    - [ ] Bolsa de valores
+ - [x] **Deportes:**
+    - [x] Snowboard
+    - [x] Wakeboard
+    - [ ] Longboard
+
+
 ***
 > Nobody said it was easy.  — Coldplay
 ***
 
-![Imagen del Subte D: Facultad de Medicina](/imagenes/foto_1.jpg "Subte D: Facultad de Medicina") 
+| ![Imagen del Subte D: Facultad de Medicina](/imagenes/foto_1.jpg "Subte D: Facultad de Medicina")  |    |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------- |
 
 ***
 
